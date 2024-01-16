@@ -1,0 +1,3 @@
+/*
+This is all about the linkedlist in cpp
+*/
